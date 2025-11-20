@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I'm currently working on AI in entomology <br>🌱 I'm currently learning AI/ML <br>👯 I'm looking to collaborate on iNaturalist for AI/ML<br>Fun fact: I'm an Entomologist with the hobby of programming 
+🔭 I'm currently working on AI in entomology <br>🌱 I'm currently learning AI/ML <br>👯 I'm looking to collaborate on iNaturalist for AI/ML<br>Fun fact: I'm an Entomologist with a hobby of programming 
 
 
 ## 🌐 Socials:
